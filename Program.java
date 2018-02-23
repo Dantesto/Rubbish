@@ -1,9 +1,6 @@
-//package Books;
-
 import java.io.*;
 import java.util.*;
 import java.net.URL;
-//import MainMethods.*;
 
 class MainMethods {
 	public static ArrayList<String> Split(String s, HashSet<Character> divider, boolean RemoveEmptyEntries) {
